@@ -26,7 +26,7 @@
         },
         {
             "itemName": "Jeans Black",
-            "itemPrice": 1000,
+            "itemPrice": "1000",
             "itemImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjI-TxjjnzCrQC-E-eSkNGr0pi63VpiNYoPuau_qnforL8_Xbhsw",
             "itemRating": "3"
         }

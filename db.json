@@ -71,6 +71,12 @@
       "itemPrice": "1499",
       "itemImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYE3Fu6SF8UhGjG4e9xHaljCa119eiLKw7CVXahxjkPW-MrehM",
       "itemRating": "4.5"
+    },
+    {
+      "itemName": "Kids Clothing",
+      "itemPrice": "500",
+      "itemImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnvNU-tACBnrkMOrsEywZj5Z-TcYX80VxSwsYPwiigQDrgjQx7",
+      "itemRating": "4"
     }
   ]
 }
